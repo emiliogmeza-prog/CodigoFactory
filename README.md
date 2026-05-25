@@ -10,6 +10,8 @@ Tiene dos modos: automatico (la cortina abre y cierra sola cada 10 segundos)
 y manual (el usuario la controla con un boton).
 Tres LEDs indican el estado actual del sistema.
 
+![diagrama](Imagenes/aplicacion.png)
+
 LENGUAJE
 C++ para Arduino 
 
