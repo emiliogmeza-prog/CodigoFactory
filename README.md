@@ -24,6 +24,8 @@ HARDWARE NECESARIO
 - 3 resistencias de 220 ohms
 - Cables y protoboard
 
+![diagrama](Imagenes/DiagramadeCircuito.png)
+
 CONEXIONES
 Ver el archivo Diagrama de arquitectura.png
 
@@ -33,6 +35,8 @@ COMO USARLO
 2. Instalar las librerias "Servo" desde el gestor de librerias de Arduino
 3. Cargar el codigo al arduino
 4. Alimentar el circuito
+
+![diagrama](Imagenes/Diagramadearquitectura.png)
 
 INSTRUCCIONES 
 
